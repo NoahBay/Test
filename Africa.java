@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Africa extends Location {
 
-    final String name = "Syd Africa";
+    final String name = "Sydafrika";
     public String africaItem = "Brandværn";
 
     public String getLocationName() {
