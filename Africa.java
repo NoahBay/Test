@@ -13,7 +13,7 @@ public class Africa extends Location {
 
     @Override
     public String getLocationInformation() {
-        return "Information om Syd Afrika";
+        return "Information om Sydafrika";
     }
 
     @Override // fordi den ikke har nogen body
